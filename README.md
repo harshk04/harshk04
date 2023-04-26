@@ -32,11 +32,7 @@
 
 <br/>
 ## Github Stats  
-![](https://github-readme-stats.vercel.app/api?username=harshk04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshk04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshk04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![snake gif](https://raw.githubusercontent.com/harshk04/harshk04/output/github-contribution-grid-snake.svg)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=harshk04)
 <br/>    
 
 ## Visitor Count:
