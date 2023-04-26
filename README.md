@@ -2,7 +2,7 @@
 <br/>
 <h1 align="center">Hi 👋, I'm Harsh Kumawat</h1>
 <h3 align="center">A passionate Tech Enthusiast Undergraduate</h3>
-
+<br/>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on **Web Development**
