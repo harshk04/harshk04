@@ -40,7 +40,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshk04&" alt="harshk04" /></p>
 <br/>
 ## Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/1pushpak1/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/harshk04/count.svg)
 
 <div align="center"><img src=http://ForTheBadge.com/images/badges/built-with-love.svg />
 
