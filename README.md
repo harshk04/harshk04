@@ -32,9 +32,9 @@
 
 ## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshk04&theme=dark&show_icons=true&locale=en&layout=compact" alt="harshk04" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshk04&show_icons=true&locale=en" alt="harshk04" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshk04&theme=dark&show_icons=true&locale=en" alt="harshk04" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshk04&" alt="harshk04" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshk04&theme=dark&" alt="harshk04" /></p>
 <br/>
 
 ## Visitor Count:
