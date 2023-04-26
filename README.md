@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Pushpak 🚀</div>  
+### <div align="center">I'm Harsh 🚀</div>  
   
 
 - 🔭 I’m currently working on my coding skills  
