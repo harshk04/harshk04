@@ -6,7 +6,7 @@
 <br/>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshk04](https://github.com/harshk04)
 
