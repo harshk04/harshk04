@@ -1,7 +1,9 @@
-[![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://rishavchanda.io)
-<br/>
 
-## <h1 align="center">Hi 👋, I'm Harsh Kumawat</h1>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<br><br>
+</p>
+<h1 align="center">Hi 👋, I'm Harsh Kumawat</h1>
 <h3 align="center">A passionate Tech Enthusiast Undergraduate</h3>
 <br/>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
