@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **✉️ kumawatharsh2004@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1wQlcekqlfD-RwPod_U7tlateTRHGIeUl/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1xLiftxxYziQbrRclM0LzjjXvbl9BwZJz/view?usp=drive_link
 
 <br/><br/>
 ## Connect with me  
