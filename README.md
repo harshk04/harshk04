@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshk04](https://github.com/harshk04)
 
-- ⚡ Protfolio Website:(https://harshk.is-a.dev/)
+- ⚡ Protfolio Website:(https://harshk.is-a.dev/).
 - 💬 Ask me about **anything related to my domian, I am always ready.**
 
 - 📫 How to reach me: **✉️ kumawatharsh2004@gmail.com**
